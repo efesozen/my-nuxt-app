@@ -1,0 +1,20 @@
+{
+  "name": "my-nuxt-app",
+  "version": "1.0.0",
+  "description": "My mathematical Nuxt.js project",
+  "author": "Efe.Sözen",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt generate",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "@nuxtjs/axios": "^5.3.6"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^1.0.0"
+  }
+}
